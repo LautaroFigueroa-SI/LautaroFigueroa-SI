@@ -28,6 +28,11 @@ const portfolioData = {
           label: "Windows 10 Triage",
           href: "assets/docs/methodologies/Windows Security Triage.pdf",
           type: "html"
+       },
+         {
+          label: "Caso de Auditoria: La importancia de la segmentacion de red",
+          href: "assets/docs/methodologies/Caso de Auditoria_Segmentacion.pdf",
+          type: "html"
         }
       ]
     },
