@@ -35,7 +35,7 @@ const portfolioData = {
           type: "html"
         }
       ]
-   
+    },
     {
       id: "automation",
       title: "Security Automation",
