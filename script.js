@@ -22,7 +22,7 @@ const portfolioData = {
       id: "methodologies",
       title: "Technical Methodologies",
       description: "Procedimientos técnicos desarrollados para auditorías de infraestructura, análisis previo al hardening y evaluación de seguridad.",
-      footer: "1 documento",
+      footer: "2 documentos",
       items: [
         {
           label: "Windows 10 Triage",
