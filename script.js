@@ -31,8 +31,8 @@ const portfolioData = {
        },
          {
           label: "Caso de Auditoria: La importancia de la segmentacion de red",
-          href: "assets/docs/methodologies/Caso de Auditoria_Segmentacion.pdf",
-          type: "html"
+          href: "https://drive.google.com/file/d/1RI8dPecknjJ4ohk_j64Rv0snkhFrW2DN/preview",
+          type: "pdf"
         }
       ]
     },
