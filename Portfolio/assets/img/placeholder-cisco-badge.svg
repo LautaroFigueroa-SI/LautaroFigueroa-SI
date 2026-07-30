@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
-  <rect width="120" height="120" rx="4" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
-  <rect x="20" y="30" width="80" height="60" rx="2" fill="#eef2f6" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="4 3"/>
-  <text x="60" y="55" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b7280">Cisco Badge</text>
-  <text x="60" y="72" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#0969da">Agregar Credly</text>
-</svg>
